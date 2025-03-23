@@ -1,3 +1,3 @@
 # template_01
-##first template 
-###first template notes
+##first note
+###second note
